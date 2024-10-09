@@ -1,0 +1,63 @@
+# DITA-OT-ACTION - Build Github Actions with the DITA Open Toolkit
+# SRC: https://github.com/dita-ot/dita-ot-action
+# name: CI
+# 'on':
+#   push:
+#     branches:
+#       - main
+# jobs:
+#   build-dita:
+#     permissions:
+#       # Neeed to grant 'write' permissions to this Github Action sequence
+#       contents: write
+    
+#     name: Building of example CSS Grid DITA model
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Git checkout
+#         uses: actions/checkout@v2
+      
+#       # Build HTML5
+#       - name: Build HTML5 output
+#         uses: dita-ot/dita-ot-action@master
+#         with:
+#           # Choose which map to use
+#           input: _supermap.ditamap
+#           transtype: html5
+#           output-path: out
+
+#       # Build HTML Bootstrap theme
+#       - name: Build HTML Bootstrap output
+#         uses: dita-ot/dita-ot-action@master
+#         with:
+#           install: |
+#             dita install fox.jason.extend.css
+#             dita install net.infotexture.dita-bootstrap
+#           build: |
+#             dita -i _supermap.ditamap  -o out/bootstrap -f html5-bootstrap --bootstrap.theme=minty
+
+#       # Build PDF
+#       - name: Build PDF output
+#         uses: dita-ot/dita-ot-action@master
+#         with:
+#           input: _supermap.ditamap
+#           transtype: pdf
+#           output-path: out
+#           theme: 'themes/sample-theme-pdf.yaml'
+#           # build: |
+#           #   dita -i _supermap.ditamap --theme='themes/sample-theme-pdf.yaml' -o out -f pdf
+
+#       # BUILD Zipped Archive of outputs
+#       - name: Upload DITA Output to a ZIP file
+#         uses: actions/upload-artifact@v2
+#         with:
+#           name: dita-artifact
+#           path: 'out'
+
+#       # Deploy the HTML site to the gh-pages branch
+#       - name: Deploy DITA Output to GitHub Pages
+#         uses: JamesIves/github-pages-deploy-action@3.7.1
+#         with:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#           BRANCH: gh-pages # The branch the action should deploy to.
+#           FOLDER: out # The folder the action should deploy.
