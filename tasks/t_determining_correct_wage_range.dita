@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_determining_correct_wage_range">
+  <title>determining the correct wage range in a labor condition application</title>
+  <shortdesc>the wage range acts as a way to tell what is the correct wage a foreign, non-immigrant worker should be paid based on the area and expertise bracket they are in</shortdesc>
+  <taskbody>
+    <prereq>you must have access to the department of labor's wage website (flag.dol.gov) and the USCIS website</prereq>
+    <context>the correct wage range will enable the creation of the larger labor condition application for a foriegn company</context>
+      <steps id="t_determining_correct_wage_range_steps">
+        <step>
+          <cmd>navigate to the homepage of the flag.dol.gov website</cmd>
+        </step>
+        <step>
+          <cmd>navigate to oflc wage search within the wage data tab</cmd>
+        </step>
+        <step>
+          <cmd>fill out fields within this page with the job descritption information you have for the company sponsoring the foreign worker</cmd>
+          <info>if you do not know the o*net occupation code for the given job description, you can use the o*net occupation code search bar located on the same page to find it</info>
+          <stepxmp>implementing the parameters, <i>data science</i> will result in the query result of multiple careers dealing with data science with more specific job descriptions and their corresponding o*net code</stepxmp>
+        </step>
+      </steps>
+      <result>once you have filled out the required fields, a range of wage should appear corresponding to the data you inputed</result>
+  </taskbody>
+</task>
