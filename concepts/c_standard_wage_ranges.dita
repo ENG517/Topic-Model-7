@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_standard_wage_ranges">
+  <title>standard wage ranges for foreign workers</title>
+  <shortdesc>standard wage ranges are integral to providing foreign workers a fair wage for their employment period</shortdesc>
+  <conbody>
+    <section>
+      <title>what standard wage ranges are used for</title>
+      <p>a standard wage range enables a sponsoring company to know what the prevailing or justified range of wages is owed to their sponsored employee. this wage range will make it possible to determine what specific wage level is required later in a labor condition application based off of the workers skills and qualifications. a standard wage range is also one of the first pieces of data that is needed to complete a labor condition application. </p>
+    </section>
+    <section>
+      <title>how standard wage ranges are aquired</title>
+      <p>
+        standard wage ranges are aquired through using the flag.dol.gov website. this website enables a user to find wage data for forign workers coming to the us on employment-based visas.
+      </p>
+      <p>
+        the flag.dol.gov website can give a accurate range of wages based off a combination of factors that you input into the search function within the wage data section of the website. factors such as:
+        <ul>
+          <li>location of proposed worksite (country, city, town)</li>
+          <li>specific area of proposed worksite (county)</li>
+          <li>specific job title of foreign worker</li>
+          <li>type of industry that the foreign worker is apart of</li>
+        </ul>
+      </p>
+    </section>
+    <section>
+      <title>how o*net can find the correct job title</title>
+      <p>
+        o*net (the occupational information network), is source website sponsored by the department of labor to allow people to search for wage data.
+      </p>
+      <p>a foreign workers job title will need to be placed in one of the many predetermined o*net job titles based on how well their foreign job description matches with one of the o*net job descriptions
+      </p>
+      <p>
+        o*net uses a variety of factors to determine which predetermined job title could match a foreign workers job title including:
+        <ul>
+          <li>foreign workers current wage range</li>
+          <li>foreign workers current job duties</li>
+          <li>foriegn workers past education or obtained degrees</li>
+          <li>foriegn workers current supervisory duties</li>
+        </ul>
+      </p>
+    </section>
+  </conbody>
+</concept>
