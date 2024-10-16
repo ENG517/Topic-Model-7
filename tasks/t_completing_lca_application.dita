@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_completing_lca_application">
+  <title>completing the labor condition application form</title>
+  <shortdesc>completing the labor condition application enables you to submit a calculated wage to the department of labor for certification and authorization to enable a foreign worker to be hired by a sponsoring company in the us</shortdesc>
+  <taskbody>
+    <prereq>
+      <ul>
+        <li>you must have a predetermined wage level to input into the labor condition application based off of the foreign workers job description</li>
+        <li>you must have access to a registered account on the flag.dol.gov website</li>
+      </ul>
+    </prereq>
+    <context>the purpose of the labor condition application is to protect against financial exploitation of foreign workers while they are working in the us</context>
+    <steps id="t_completing_lca_application_steps">
+      <step>
+        <cmd>navigate to the flag.dol.gov website</cmd>
+      </step>
+      <step>
+        <cmd>use the sign in tab located on the home page to enter your registered account details</cmd>
+      </step>
+      <step>
+        <cmd>select form 9035 from the menu of avaliable forms to complete</cmd>
+      </step>
+      <step>
+        <cmd>select the type of specific type of petition you are completing for this labor condition application</cmd>
+        <stepxmp>a legal assistant would select h-1b from this menu if their labor condition application is for a h-1b petition</stepxmp>
+      </step>
+      <step>
+        <cmd>fill out the form by going through each section alphabetically with the wage range, wage level, and job description information for the foreign worker</cmd>
+      </step>
+      <step>
+        <cmd>navigate to the save and quit button and exit the form</cmd>
+        <info>it is only recommended to submit the form if a supervising attorney approves</info>
+      </step>
+    </steps>
+  </taskbody>
+</task>
