@@ -19,11 +19,11 @@
         <cmd>use the sign in tab located on the home page to enter your registered account details</cmd>
       </step>
       <step>
-        <cmd>select form 9035 from the menu of avaliable forms to complete</cmd>
+        <cmd>select form 9035 or form 9035e from the menu of avaliable forms to complete</cmd>
       </step>
       <step>
         <cmd>select the type of specific type of petition you are completing for this labor condition application</cmd>
-        <stepxmp>a legal assistant would select h-1b from this menu if their labor condition application is for a h-1b petition</stepxmp>
+        <stepxmp>a legal assistant would select h-1b from the menu if their labor condition application is for a h-1b petition</stepxmp>
       </step>
       <step>
         <cmd>fill out the form by going through each section alphabetically with the wage range, wage level, and job description information for the foreign worker</cmd>
