@@ -4,7 +4,12 @@
   <title>determining the correct wage range in a labor condition application</title>
   <shortdesc>the wage range acts as a way to tell what is the correct wage a foreign, non-immigrant worker should be paid based on the area and expertise bracket they are in</shortdesc>
   <taskbody>
-    <prereq>you must have access to the department of labor's wage website (flag.dol.gov) and the USCIS website</prereq>
+    <prereq>
+      <ul>
+        <li>you must have access to the department of labor's wage website (flag.dol.gov) and the USCIS website</li>
+        <li>you must have the foreign workers job description, job title, education, and expertise information</li>
+      </ul>
+    </prereq>
     <context>the correct wage range will enable the creation of the larger labor condition application for a foriegn company</context>
       <steps id="t_determining_correct_wage_range_steps">
         <step>
