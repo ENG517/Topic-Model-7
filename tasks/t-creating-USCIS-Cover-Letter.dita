@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_creating_USCI_cover_letter">
+  <title>Creating A USCIS Cover Letter</title>
+  <shortdesc>This cover letter should act as an outline for your petition.</shortdesc>
+  <taskbody>
+    <ol>
+      <li>Use a word processor to format a letter template.</li>
+      <li>Start with outlining visa type, names of client and company, and requested amount of years for the petition</li>
+      <li>Detail included documents for client.</li>
+      <li>Detail included documents for company.</li>
+    </ol>
+  </taskbody>
+</task>
