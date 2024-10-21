@@ -24,7 +24,7 @@
           <stepxmp>implementing the parameters, <i>data science</i> will result in the query result of multiple careers dealing with data science with more specific job descriptions and their corresponding o*net code</stepxmp>
         </step>
       </steps>
-      <result>once you have filled out the required fields, a range of wage should appear corresponding to the data you inputed</result>
+      <result>once you have filled out the required fields, a range of wages should appear corresponding to the data you inputed</result>
       <postreq>this wage range is required to determine the correct wage level for the labor condition application</postreq>
   </taskbody>
 </task>
