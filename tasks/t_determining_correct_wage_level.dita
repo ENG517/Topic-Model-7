@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_determining_correct_wage_level">
+  <title>finding the correct wage level in a labor condition application</title>
+  <shortdesc>finding the correct wage level will determine which specific wage you will use out of the foreign workers wage range for their job description and expertise level</shortdesc>
+  <taskbody>
+    <prereq>
+      <ul>
+        <li>you must have a wage range for your foreign workers job description and expertise level</li>
+        <li>you must have access to your law firms calculative method for determining the wage level</li>
+        <li>you must have all of the required documents your specific petition requires for submission</li>
+      </ul>
+    </prereq>
+    <context>once a wage range and a wage level is found,then the exact required wage for the foreign worker can be determined</context>
+    <steps id="t_determining_correct_wage_level_steps">
+      <step>
+        <cmd>determine your law firms calculative method for determining a wage level</cmd>
+        <info>law firms may differ in the methods they use but they must meet USCIS determination standards</info>
+        <stepxmp>
+          <image href = "wagelevel.jpg"> 
+            <alt>wage level calculative spreadsheet</alt>
+          </image>
+        </stepxmp>
+      </step>
+      <step>
+        <cmd>determine job description svp range</cmd>
+        <info>locate the svp range for the foreign workers job description on the given job titles home page on o*net</info>
+      </step>
+      <step> 
+        <cmd>determine the expertise requirements</cmd>
+        <substeps id="t_determine_correct_wage_level_substeps_expertisereq_lca">
+          <substep>
+            <cmd>input the years of experience required by both the employer and the o*net job description</cmd>
+          </substep>
+        </substeps>
+        <info>if the numbers are equal then input a 0</info>
+        <info> if the number of years required by the employer are higher than the years required by o*net, input a number according to the numerical difference between the two</info>
+        <stepxmp>if the employer requires 3 years and o*net requires 1, then add 2 to the sum of the final number</stepxmp>
+      </step>
+      <step>
+        <cmd>determine the educational requirements</cmd>
+        <substeps id= "t_determine_correct_wage_level_substeps_educationalreq_lca">
+          <substep>
+            <cmd>input the degree required by both the employer and the o*net job description</cmd>
+          </substep>
+        </substeps>
+        <info>if the degrees are equal then input a 0</info>
+        <info>if the degrees required by the employer are higher than the years required by o*net, you will input a number according to the numerical difference between the two</info>
+        <stepxmp>if the employer requires a masters degree and o*net requires a bachelors degree, then add 1 to the sum of the final number</stepxmp>
+      </step>
+      <step>
+        <cmd>determine the special skills requirement</cmd>
+        <info>only add a number 1 to the sum of the final number if the foreign worker has any technical or special skills as determined by USCIS standards</info>
+      </step>
+      <step>
+        <cmd>determine the supervisory duties requirement</cmd>
+        <info>only add a number 1 to the sum of the final number if the foreign worker has any supervisory duties as determined by USCIS standards</info>
+      </step>
+    </steps>
+    <result>the sum of the final number will determine the corresponding single digit number within the wage range for the foreign worker</result>
+  </taskbody>
+</task>
