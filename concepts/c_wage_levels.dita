@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_wage_levels">
+  <title>wage levels for foreign workers</title>
+  <shortdesc>a wage level is a specific numerical wage within a wage range and allows foreign workers to know the exact range they should be paid based on their expertise and qualification</shortdesc>
+  <conbody>
+    <section>
+      <title>calculative methods for finding wage levels</title>
+      <p>
+        finding a specific wage level within a wage range requires a calculative method. often law firms use their own custom methods to meet this requirment
+      </p>
+      <p>methods include:</p>
+      <ul>
+        <li>google sheets or microsoft excel calculative spreadsheets</li>
+        <li>contacting the department of labor directly to receive a certified wage level for the foreign worker</li>
+      </ul>
+    </section>
+    <section>
+      <title>information that the calculative methods use</title>
+      <p>whether a law firm uses the department of labor or their own calculative method, the same information will be used to determine the wage level, such as: 
+        <dl>
+          <dlentry>
+            <dt>svp range</dt>
+            <dd>the svp range measures the amount of training required for a specific occupation</dd>
+          </dlentry>
+          <dlentry>
+            <dt>experience requirements</dt>
+            <dd>the amount of experience needed to satisfy both the sponsored companys and o*nets predetermined job descriptions</dd>
+          </dlentry>
+          <dlentry>
+            <dt>educational requirements</dt>
+            <dd>the amount of education or degree needed to satisfy both the sponsored companys and o*nets predetermined job descriptions</dd>
+          </dlentry>
+          <dlentry>
+            <dt>special skill requirements</dt>
+            <dd>skills such as speaking another language or special licences and certifications </dd>
+          </dlentry>
+          <dlentry>
+            <dt>supervisory duties requirements</dt>
+            <dd>duties that involve the management of other employees or entire company teams</dd>
+          </dlentry>
+        </dl>
+      </p>
+    </section>
+  </conbody>
+</concept>
