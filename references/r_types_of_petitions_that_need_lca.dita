@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_types_of_petitions_that_need_lca">
+  <title>types of petitions that require lca</title>
+  <shortdesc>the different types of procedures can provide additonal information that is beneficial to petition creation</shortdesc>
+  <refbody>
+    <section id="types_of_petitions_that_need_lca_petitions">
+      <title>petition types</title>
+        <table>
+          <tgroup cols="3">
+            <thead>
+              <row>
+                <entry colname="COLSPEC0" valign="top">petition</entry>
+                <entry colname="COLSPEC0" valign="top">country</entry>
+                <entry colname="COLSPEC" valign="top">use</entry>
+              </row>
+            </thead>
+          </tgroup>
+        </table>
+    </section>
+  </refbody>
+</reference>
