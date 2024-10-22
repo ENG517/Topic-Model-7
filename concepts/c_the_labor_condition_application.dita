@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_the_labor_condition_application">
+  <title>labor condition application information</title>
+  <shortdesc>the labor condition application is a form that employers must file in order to hire a prospective non-immigrant foreign worker for their company to ensure they are providing proper wages</shortdesc>
+  <conbody>
+    <section>
+      <title>purpose of the labor condition application form</title>
+      <p>
+        the labor condiiton application form, form 9035 and form 9035e, is a used by the department of labor to ensure foreign workers are being paid the correct amount of wages based of off the geographical location and expertise required of the proposed job by the sponsoring company. it takes into account the expertise and education of the foreign worker to ensure they are being paid more for special skills or supervisory duties.
+      </p>
+      <p>
+        it demonstrates that the proposed job by the sponsoring company could not be filled by any us applicants and therefore, the company needed to look internationally to fill the position.
+      </p>
+      <p>
+        once the department of labor approves the labor condition application form, the company can then start the process of filing the complete foreign workers petition.
+      </p>
+    </section>
+    <section>
+      <title>types of petitions that use the labor condition application</title>
+      <p>
+        only certain types of petitions require a labor condition application.the petitions that do require a labor condition application are specifically non-immigrant, employment-based, petitions such as:
+        <ul>
+          <li>h-1b petitions</li>
+          <li>h-1b1 petitions</li>
+          <li>e-3 petitions</li>
+        </ul>
+      </p>
+    </section>
+  </conbody>
+</concept>
