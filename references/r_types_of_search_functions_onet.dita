@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_types_of_search_functions_onet">
+  <title>search functions offered within o*net</title>
+  <shortdesc>understanding the different search functions of o*net can help a user find a applicable o*net job title equivalent for a foreign worker faster</shortdesc>
+  <refbody>
+    <section id="r_types_of_search_functions_onet_occupational">
+      <table>
+        <tgroup cols="3">
+          <thead>
+            <row>
+               <entry colname="COLSPEC0" valign="top">category</entry>
+                <entry colname="COLSPEC1" valign="top">function aim</entry>
+                <entry colname="COLSPEC2" valign="top">sorting methodology</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>bright outlook</entry>
+              <entry>shows occupations with many future openings</entry>
+              <entry>popular and vital occupations</entry>
+            </row>
+            <row>
+              <entry>career cluster</entry>
+              <entry>shows occupations that are closely related</entry>
+              <entry>similar occupations</entry>
+            </row>
+            <row>
+              <entry>hot technology</entry>
+              <entry>shows occupations that require currently popular tech and software skills</entry>
+              <entry>requirment of specific technology skills</entry>
+            </row>
+            <row>
+              <entry>industry</entry>
+              <entry>shows occupations grouped by certain buisiness industries</entry>
+              <entry>categories of buisiness types</entry>
+            </row>
+            <row>
+              <entry>job family</entry>
+              <entry>shows occupations based on similar skills, training, credentials to one another</entry>
+              <entry>similar occupational requirements</entry>
+            </row>
+            <row>
+              <entry>job zone</entry>
+              <entry>shows grouped occupation on scale 1-5 based on level of training preperation required</entry>
+              <entry>specific training requirements</entry>
+            </row>
+            <row>
+              <entry>stem</entry>
+              <entry>shows occupations specifically in science, engineering, mathematics, and technology fields</entry>
+              <entry>occupational field</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+  </refbody>
+</reference>
