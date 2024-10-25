@@ -11,10 +11,27 @@
             <thead>
               <row>
                 <entry colname="COLSPEC0" valign="top">petition</entry>
-                <entry colname="COLSPEC0" valign="top">country</entry>
-                <entry colname="COLSPEC" valign="top">use</entry>
+                <entry colname="COLSPEC1" valign="top">eligible countries</entry>
+                <entry colname="COLSPEC2" valign="top">entry purpose</entry>
               </row>
             </thead>
+            <tbody>
+              <row>
+                <entry>h-1b</entry>
+                <entry>any country nationality</entry>
+                <entry>specialized knowledge</entry>
+              </row>
+              <row>
+                <entry>h-1b1</entry>
+                <entry>chile and singapore</entry>
+                <entry>specialized knowledge</entry>
+              </row>
+              <row>
+                <entry>e-3</entry>
+                <entry>australia</entry>
+                <entry>specialized occupation</entry>
+              </row>
+            </tbody>
           </tgroup>
         </table>
     </section>
