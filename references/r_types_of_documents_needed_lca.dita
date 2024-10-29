@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_types_of_documents_needed_lca">
+  <title>required documents for the labor condition application</title>
+  <shortdesc>knowing the correct documents to collect prior to filling out the lca can expedite the application process</shortdesc>
+  <refbody>
+    <section id="r_types_of_documents_needed_lca_required_documents_em">
+      <title>required documents from employee</title>
+        <ul>
+          <li>address of residence in us</li>
+          <li>evidence showing special skills</li>
+          <li>evidence showing supervisory duties</li>
+          <li>resume/cv</li>
+        </ul>
+    </section>
+    <section id="r_types_of_documents_needed_lca_required_documents_emp">
+      <title>required documents from employer</title>
+        <ul>
+          <li>address of proposed workplace(s)</li>
+          <li>official job description</li> 
+          <li>offer letter for posititon</li>
+          <li>proposed wage for position</li>
+        </ul>
+    </section>
+    <section id="r_types_of_documents_needed_lca_required_documents_help">
+      <title>helpful documents</title>
+        <ul>
+          <li>certifications of employee</li>
+          <li>educational transcripts of employee</li>
+          <li>heirarchy of company employees</li>
+          <li>letter(s) of support from employee</li>
+          <li>pay structure of sponsoring company</li>
+        </ul>
+    </section>
+  </refbody>
+</reference>
