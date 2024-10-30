@@ -85,3 +85,24 @@ dita -f html5 -i 'url/to/your/wanted.ditamap' \
 dita -f pdf -i 'url/to/your/wanted.ditamap' \
   -o 'url/to/your/output/folder' \
 ```
+## Project Maps
+
+### LCA Data Collection
+user scenario 1: 
+
+A legal assistant who has been working at an immigration law firm for six months has been primarily
+helping compile information for employment-based petitions. Recently, they have also been
+trusted with a crucial part of the process that helps establish a living wage the employer must pay to the
+sponsoring client so that they are being compensated appropriately for their employment. This document is known
+as a LCA (Labor Condition Application) and is submitted by a head attorney but can be drafted by a junior
+assistant. This step is not very complex but the form is located on a new website that requires a login and a new
+fillable form interface using hyperlinks to other websites that help the user understand what wage is appropriate
+for the worker based on degree, years of experience, and special skills.
+
+topic reference idea 1: LCA Data Collection 
+  standard wage ranges (concept)
+  wage levels (concept)
+    determining correct wage ranges (topic)
+    determining correct wage level (topic)
+  types of petitions that need a LCA (reference)
+  types of documents needed LCA (reference)
