@@ -99,10 +99,47 @@ assistant. This step is not very complex but the form is located on a new websit
 fillable form interface using hyperlinks to other websites that help the user understand what wage is appropriate
 for the worker based on degree, years of experience, and special skills.
 
+map 1: 
+
 topic reference idea 1: LCA Data Collection 
   standard wage ranges (concept)
   wage levels (concept)
-    determining correct wage ranges (topic)
-    determining correct wage level (topic)
+    determining correct wage ranges (task)
+    determining correct wage level (task)
   types of petitions that need a LCA (reference)
   types of documents needed LCA (reference)
+
+map 2: 
+
+topic reference idea 2: LCA Application Completion 
+  standard wage ranges (concept)
+  wage levels (concept)
+  the labor condition application (concept)
+    completing the labor condition application (task)
+  types of search functions in o-net (reference)
+
+user scenario 2: A legal assistant who has been working at an immigration law firm for three months has been helping create employment-based immigration petitions like the H-1B visa. A H-1B visa is part of the I-129 employment-based petition and requires different documents, forms, and clients that the legal assistant must interact with now. They are familiar with the USCIS website, the workflow of compiling a petition and contacting clients for required information. They are confident in their ability to manage this case but still need advice on specific tasks like how to craft a company support letter since that is not a requirement in family-based petitions. In addition to creating a H-1B visa, they have also been trusted to collect data for the LCA application but not fill out the form. 
+
+map 1: 
+
+topic reference idea 1: 
+
+  contents of a H-1B petition (concept)
+  what is a USCIS cover letter (concept)
+    constructing a company support letter for sponsoring company (task)
+    creating a USCIS cover letter (task)
+  standard wage ranges (concept)
+  wage levels (concept)
+    determining the correct wage range (task)
+    determining the correct wage level (task)
+    types of petitions that need LCA (reference)
+
+topic reference idea 2: 
+
+  contents of a H-1B petition (concept)
+    constructing a company support letter for sponsoring company (task)
+  standard wage ranges (concept)
+  wage levels (concept) 
+    determining the correct wage range (task)
+    determining the correct wage level (task)
+    types of search functions in o-net (reference)
