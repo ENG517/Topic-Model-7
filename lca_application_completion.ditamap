@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="lca_application_completion">
+  <title>lca application completion process</title>
+  <topicref type="concept"
+  href="concepts\c_standard_wage_ranges.dita"/>
+  <topicref type="concept"
+  href="concepts\c_wage_levels.dita"/>
+  <topicref type="concept"
+  href="concepts\c_the_labor_condition_application.dita"/>
+    <topicref type="task"
+    href="tasks\t_completing_lca_application.dita"/>
+  <topicref type="reference"
+  href="references\r_types_of_search_functions_onet.dita"/>
+</map>
