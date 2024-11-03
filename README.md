@@ -126,7 +126,7 @@ topic reference idea 1: H-1B and LCA Petition Process for New Users
 
   contents of a H-1B petition (concept)
   what is a USCIS cover letter (concept)
-    constructing a company support letter for sponsoring company (task)
+    organizing a H-1B petition (task)
     creating a USCIS cover letter (task)
   standard wage ranges (concept)
   wage levels (concept)
@@ -139,7 +139,6 @@ map 2:
 topic reference idea 2: H-1B and LCA Petition Process for Advanced Users
 
   contents of a H-1B petition (concept)
-    constructing a company support letter for sponsoring company (task)
   standard wage ranges (concept)
   wage levels (concept) 
     determining the correct wage range (task)
