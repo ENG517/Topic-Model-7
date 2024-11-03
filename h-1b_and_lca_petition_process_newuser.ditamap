@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="h-1b_and_lca_petition_process_newuser">
+  <title>h-1b and lca petition process for new users</title>
+  <topicref type="concept"
+  href="concepts\c_contents_of_H-1B_petition.dita"/>
+  <topicref type="concept"
+  href="concepts\c_what_is_USCIS_cover_letter.dita"/>
+    <topicref type="task"
+    href="tasks\t_organizing_H-1B_petition.dita"/>
+    <topicref type="task"
+    href="tasks\t-creating-USCIS-Cover-Letter.dita"/>
+  <topicref type="concept"
+  href="concepts\c_standard_wage_ranges.dita"/>
+  <topicref type="concept"
+  href="concepts\c_wage_levels.dita"/>
+    <topicref type="task"
+    href="tasks\t_determining_correct_wage_range.dita"/>
+    <topicref type="task"
+    href="tasks\t_determining_correct_wage_level.dita"/>
+    <topicref type="reference"
+    href="references\r_types_of_petitions_that_need_lca.dita"/>
+</map>
