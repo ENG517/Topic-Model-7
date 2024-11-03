@@ -122,7 +122,7 @@ user scenario 2: A legal assistant who has been working at an immigration law fi
 
 map 1: 
 
-topic reference idea 1: 
+topic reference idea 1: H-1B and LCA Petition Process for New Users
 
   contents of a H-1B petition (concept)
   what is a USCIS cover letter (concept)
@@ -136,7 +136,7 @@ topic reference idea 1:
 
 map 2: 
 
-topic reference idea 2: 
+topic reference idea 2: H-1B and LCA Petition Process for Advanced Users
 
   contents of a H-1B petition (concept)
     constructing a company support letter for sponsoring company (task)
