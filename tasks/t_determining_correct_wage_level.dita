@@ -4,7 +4,7 @@
   <title>finding the correct wage level in a labor condition application</title>
   <shortdesc>finding the correct wage level will determine which specific wage you will use out of the foreign workers wage range for their job description and expertise level</shortdesc>
   <taskbody>
-    <prereq>
+    <prereq audience="novice">
       <ul>
         <li>you must have a wage range for your foreign workers job description and expertise level</li>
         <li>you must have access to your law firms calculative method for determining the wage level</li>
@@ -48,11 +48,11 @@
         <info>if the degrees required by the employer are higher than the years required by o*net, you will input a number according to the numerical difference between the two</info>
         <stepxmp>if the employer requires a masters degree and o*net requires a bachelors degree, then add 1 to the sum of the final number</stepxmp>
       </step>
-      <step>
+      <step audience="expert">
         <cmd>determine the special skills requirement</cmd>
         <info>only add a number 1 to the sum of the final number if the foreign worker has any technical or special skills as determined by USCIS standards</info>
       </step>
-      <step>
+      <step audience="expert">
         <cmd>determine the supervisory duties requirement</cmd>
         <info>only add a number 1 to the sum of the final number if the foreign worker has any supervisory duties as determined by USCIS standards</info>
       </step>
