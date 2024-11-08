@@ -13,10 +13,10 @@
       </step>
       <step>
         <cmd>detail included documents for client</cmd>
-        </step>
-        <step>
+      </step>
+      <step>
           <cmd>detail included documents for company</cmd>
-          </step>
+      </step>
     </steps>
   </taskbody>
 </task>
