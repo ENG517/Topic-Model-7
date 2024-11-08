@@ -154,25 +154,18 @@ topic reference idea 1:
 
 What is a H-1B Petition? (concept)
   Contents of a H-1B Petition (concept)
-  What is a USCIS Cover Letter? (concept)
-    Creating A USCIS Cover Letter (task)
+  Required Documents of H-1B (reference)
+    What is a USCIS Cover Letter? (concept)
   Labor condition application information (concept)
-    completing the labor condition application form (task)
-    required documents for the labor condition application (reference)
   Organizing the H-1B Petition (task)
-  search functions offered within o*net (reference)
+    Compiling H-1B Petition (reference)
 
 map 2: 
 
 topic reference idea 2: 
 
-Search functions offered within o*net (reference)
 What is a H-1B Petition? (concept)
 Contents of a H-1B Petition (concept)
-What is a USCIS Cover Letter? (concept)
-  Creating A USCIS Cover Letter (task)
-Labor condition application information (concept)
-    completing the labor condition application form (task)
-    required documents for the labor condition application (reference)
-    types of petitions that require lca (reference)
+Required Documents of H-1B (reference)
 Organizing the H-1B Petition (task)
+  Compiling H-1B Petition (reference)
