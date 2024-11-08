@@ -4,7 +4,7 @@
   <title>standard wage ranges for foreign workers</title>
   <shortdesc>standard wage ranges are integral to providing foreign workers a fair wage for their employment period</shortdesc>
   <conbody>
-    <section>
+    <section audience="novice">
       <title>what standard wage ranges are used for</title>
       <p>a standard wage range enables a sponsoring company to know what the prevailing or justified range of wages is owed to their sponsored employee. this wage range will make it possible to determine what specific wage level is required later in a labor condition application based off of the workers skills and qualifications.</p>
     </section>
@@ -30,7 +30,7 @@
       </p>
       <p>a foreign workers job title will need to be translated into one of the many predetermined o*net job titles based on how well their foreign job description matches with one of the o*net job descriptions.
       </p>
-      <p>
+      <p audience="expert">
         o*net uses a variety of factors to determine which predetermined job title could match a foreign workers job title including:
         <ul>
           <li>foreign workers current wage range</li>
