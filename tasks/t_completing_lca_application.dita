@@ -4,7 +4,7 @@
   <title>completing the labor condition application form</title>
   <shortdesc>completing the labor condition application enables you to submit a calculated wage to the department of labor for certification and authorization to enable a foreign worker to be hired by a sponsoring company in the us</shortdesc>
   <taskbody>
-    <prereq>
+    <prereq audience="novice">
       <ul>
         <li>you must have a predetermined wage level to input into the labor condition application based off of the foreign workers job description</li>
         <li>you must have access to a registered account on the flag.dol.gov website</li>
@@ -28,7 +28,7 @@
       <step>
         <cmd>fill out the form by going through each section alphabetically with the wage range, wage level, and job description information for the foreign worker</cmd>
       </step>
-      <step>
+      <step audience="novice">
         <cmd>navigate to the save and quit button and exit the form</cmd>
         <info>it is only recommended to submit the form if a supervising attorney approves</info>
       </step>
