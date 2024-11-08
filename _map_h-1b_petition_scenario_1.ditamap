@@ -3,9 +3,9 @@
 <map id="m_h-1b_petition_creation_scenario_one">
   <title>h-1b petition creation scenario one</title>
   <topicref type="concept" href="concepts\c_what_is_H-1B_petition.dita"/>
-  <topicref type="concept" href="concepts\c_contents_of_H-1B_petition.dita">
-    <topicref type="reference" href="references/r_compiling_hb1_steps.dita"/>
-    <topicref type="reference" href="references/r_required_h-1b_documents.dita"/>
-  </topicref>
+   <topicref type="concept" href="concepts\c_contents_of_H-1B_petition.dita">
+      <topicref type="reference" href="references/r_compiling_hb1_steps.dita"/>
+      <topicref type="reference" href="references/r_required_h-1b_documents.dita"/>
+    </topicref>
   <topicref type="task" href="tasks\t_organizing_H-1B_petition.dita"/>
 </map>

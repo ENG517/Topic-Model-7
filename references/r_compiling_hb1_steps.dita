@@ -1,17 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
-<reference id="r_creating_h-1b_document">
-  <title>steps for creating a h-1b document</title>
-  <shortdesc>steps to produce a first draft of an h-1b petition</shortdesc>
+<reference id="r_compiling_h1b_steps">
+  <title>compiling h-1b steps</title>
+  <shortdesc> the steps to put together a h-1b petition</shortdesc>
   <refbody>
-    <section id="r_steps_h-1b_document">
-      <title>steps for creating a h-1b document</title>
-        <ul>
-          <li>compiling required documents</li>
-          <li>drafting a support letter for sponsoring company</li>
-          <li>creating a USCIS cover letter</li>
-          <li>organizing the petition</li>
-        </ul>
-    </section>
+    <properties>
+      <property>
+        <proptype>step 1</proptype>
+          <propvalue>pull together the required documents</propvalue>
+      </property>
+      <property>
+        <proptype>step 2</proptype>
+          <propvalue>draft a support letter for the sponsoring company</propvalue>
+      </property>
+      <property>
+        <proptype>step 3</proptype>
+          <propvalue>creat a USCIS cover letter</propvalue>
+      </property>
+      <property>
+        <proptype>step 4</proptype>
+          <propvalue>organize the h-1b petition</propvalue>
+      </property>
+    </properties>
   </refbody>
 </reference>
