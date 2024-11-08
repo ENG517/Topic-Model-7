@@ -12,10 +12,10 @@
     </prereq>
     <context>the correct wage range will enable the creation of the larger labor condition application for a foriegn company</context>
       <steps id="t_determining_correct_wage_range_steps">
-        <step>
+        <step audience="novice">
           <cmd>navigate to the homepage of the flag.dol.gov website</cmd>
         </step>
-        <step>
+        <step audience= "novice">
           <cmd>navigate to oflc wage search within the wage data tab</cmd>
         </step>
         <step>
