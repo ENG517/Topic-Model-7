@@ -6,7 +6,7 @@
   <conbody>
     <section>
       <title>calculative methods for finding wage levels</title>
-      <p>
+      <p audience="novice">
         finding a specific wage level within a wage range requires a calculative method. often law firms use their own custom methods to meet this requirment
       </p>
       <p>methods include:</p>
@@ -15,7 +15,7 @@
         <li>contacting the department of labor directly to receive a certified wage level for the foreign worker</li>
       </ul>
     </section>
-    <section>
+    <section audience="novice">
       <title>information that the calculative methods use</title>
       <p>whether a law firm uses the department of labor or their own calculative method, the same information will be used to determine the wage level, such as: 
         <dl>
