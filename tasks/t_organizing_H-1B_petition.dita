@@ -4,12 +4,22 @@
   <title>Organizing the H-1B Petition</title>
   <shortdesc>The final step in this procedure is organizing the petition for your reviewing attorney.</shortdesc>
   <taskbody>
-    <ol>
-      <li>Organize your compiled documents and exhibits into the order that your USCIS cover letter mandates.</li>
-      <li>Place your Support Letter on top of the compiled exhibits.</li>
-      <li>Place your USCIS Cover Letter on top of the Support Letter.</li>
-      <li>Review for any spelling, grammatical, or regulatory errors.</li>
-      <li>Deliver draft to reviewing attorney.</li>
-    </ol>
+    <steps>
+      <step>
+        <cmd>organize your compiled documents and exhibits into the order that your USCIS cover letter mandates</cmd>
+        </step>
+      <step>
+        <cmd>place your support letter on top of the compiled exhibits</cmd>
+      </step>
+      <step>
+        <cmd>place your USCIS Cover Letter on top of the support letter</cmd>
+      </step>
+      <step>
+        <cmd>review for any spelling, grammatical, or regulatory errors</cmd>
+      </step>
+      <step>
+        <cmd>deliver draft to reviewing attorney</cmd>
+      </step>
+    </steps>
   </taskbody>
 </task>
