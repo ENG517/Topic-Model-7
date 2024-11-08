@@ -17,7 +17,7 @@
         <cmd>determine your law firms calculative method for determining a wage level</cmd>
         <info>law firms may differ in the methods they use but they must meet USCIS determination standards</info>
         <stepxmp>
-          <image href = "assets\images\wagelevel.jpg"> 
+          <image href="../assets/images/wagelevel.jpg">
             <alt>wage level calculative spreadsheet</alt>
           </image>
         </stepxmp>
