@@ -165,6 +165,8 @@ map 2:
 topic reference idea 2: 
 
 What is a H-1B Petition? (concept)
+  Required H-1B Documents (reference)
+  Compiling H-1B Documents (reference)
 Contents of a H-1B Petition (concept)
 Required Documents of H-1B (reference)
 Organizing the H-1B Petition (task)

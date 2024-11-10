@@ -1,20 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
-<reference id="r_required_h-1b_documents">
+<reference id="r_required_h1b_documents">
   <title>required h-1b documents</title>
   <refbody>
-    <section id="r_required_h-1b_documents_two">
-        <ul>
-          <li>support letter from sponsoring company</li>
-          <li>USCIS cover letter</li>
-            <li>offer letter of position</li>
-            <li>current address of company</li>
-            <li>proposed duties of client</li>
-            <li>proposed salary of client</li>
-            <li>proposed job title of client</li>
-            <li>proposed employment dates of client</li>
-            <li>information about history of company</li>
-        </ul>
-    </section>
+    <properties>
+      <property>
+        <proptype>support letter from sponsoring company</proptype>
+      </property>
+      <property>
+        <proptype>USCIS cover letter</proptype>
+      </property>
+      <property>
+        <proptype>offer letter of position</proptype>
+      </property>
+      <property>
+        <proptype>current address of company</proptype>
+      </property>
+      <property>
+        <proptype>proposed duties of client</proptype>
+      </property>
+      <property>
+        <proptype>proposed salary of client</proptype>
+      </property>
+      <property>
+        <proptype>proposed job title of client</proptype>
+      </property>
+      <property>
+        <proptype>proposed employment dates of client</proptype>
+      </property>
+      <property>
+        <proptype>information about history of company</proptype>
+      </property>
+    </properties>
   </refbody>
 </reference>
