@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="m_h1B_scenario_two">
-  <title></title>
-  <topicref href="m_h1b_scenario_two" format="ditamap"/>
-  <topicref type="concept" href="concepts\c_what_is_H-1B_petition.dita"/>
-  <topicref type="concept" href="concepts\c_contents_of_H-1B_petition.dita"/>
-  <topicref type="reference" href="references\r_required_h-1b_documents.dita"/>
-  <topicref type="task" href="tasks\t_organizing_H-1B_petition.dita">
-    <topicref type="reference" href="references\r_compiling_hb1_steps.dita"/>
+  <title>h-1b petition scenario 2</title>
+  <topicref type="concept" href="concepts/c_what_is_H-1B_petition.dita"/>
+  <topicref type="concept" href="concepts/c_contents_of_H-1B_petition.dita"/>
+  <topicref type="reference" href="references/r_required_h-1b_documents.dita"/>
+  <topicref type="task" href="tasks/t_organizing_H-1B_petition.dita">
+    <topicref type="reference" href="references/r_compiling_hb1_steps.dita"/>
   </topicref>
 </map>
