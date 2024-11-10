@@ -154,9 +154,11 @@ topic reference idea 1:
 
 What is a H-1B Petition? (concept)
   Contents of a H-1B Petition (concept)
-    Required H-1B Documents (reference)
-    Compiling H-1B Documents (reference)
-Organizing H-1B Petition (task)
+  Required Documents of H-1B (reference)
+    What is a USCIS Cover Letter? (concept)
+  Labor condition application information (concept)
+  Organizing the H-1B Petition (task)
+    Compiling H-1B Petition (reference)
 
 map 2: 
 
@@ -166,4 +168,6 @@ What is a H-1B Petition? (concept)
   Required H-1B Documents (reference)
   Compiling H-1B Documents (reference)
 Contents of a H-1B Petition (concept)
+Required Documents of H-1B (reference)
 Organizing the H-1B Petition (task)
+  Compiling H-1B Petition (reference)
