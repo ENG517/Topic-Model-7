@@ -1,4 +1,4 @@
-# DITA Topic Model - ENTER TITLE OF PROJECT HERE
+# DITA Topic Model - H-1B Employment Based Non-Immigrant Petition
 
 This repo contains a DITA topic model (TM) related to [enter main goal and topic of your model here].
 
