@@ -104,7 +104,7 @@ style:
     text-transform: uppercase
   # Heading Styles
   h1:
-    font-family: $fonts-families-display
+    font-family: $fonts-families-headings
     font-size: $fonts-sizing-h1
     letter-spacing: 0.5pt
     color: $colors-primary-main
