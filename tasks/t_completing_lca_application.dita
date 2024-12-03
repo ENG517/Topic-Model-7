@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_completing_lca_application">
+  <!-- COMMENTS
+    - Why no capitalization? Is this specific to your context? If not, be sure to correct this issue throughout the model.
+  -->
   <title>completing the labor condition application form</title>
-  <shortdesc>completing the labor condition application enables you to submit a calculated wage to the department of labor for certification and authorization to enable a foreign worker to be hired by a sponsoring company in the us</shortdesc>
+  <!-- shortdesc's are just specific types of paragraphs, so you can format them as below to also make them collapsible. -->
+  <shortdesc>
+    completing the labor condition application enables you to submit a calculated wage to the department of labor for certification and authorization to enable a foreign worker to be hired by a sponsoring company in the us.
+  </shortdesc>
   <taskbody>
     <prereq audience="novice">
       <ul>
+        <!-- Simplify by removing the repeated text like "you must have ..." unless it is a condition from the employer of course. -->
         <li>you must have a predetermined wage level to input into the labor condition application based off of the foreign workers job description</li>
         <li>you must have access to a registered account on the flag.dol.gov website</li>
       </ul>
@@ -13,6 +20,7 @@
     <context>the purpose of the labor condition application is to protect against financial exploitation of foreign workers while they are working in the us</context>
     <steps id="t_completing_lca_application_steps">
       <step>
+        <!-- You can use the <link> element to make that URL portion clickable -->
         <cmd>navigate to the flag.dol.gov website</cmd>
       </step>
       <step>
