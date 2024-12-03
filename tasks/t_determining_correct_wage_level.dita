@@ -39,7 +39,8 @@
       </step>
       <step>
         <cmd>determine the educational requirements</cmd>
-        <substeps id= "t_determine_correct_wage_level_substeps_educationalreq_lca">
+        <!-- no spaces between attributes and their values -->
+        <substeps id="t_determine_correct_wage_level_substeps_educationalreq_lca">
           <substep>
             <cmd>input the degree required by both the employer and the o*net job description</cmd>
           </substep>

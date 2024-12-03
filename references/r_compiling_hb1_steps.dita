@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="r_compiling_h1b_steps">
+  <!-- COMMENTS
+    Consider how this is a task topic. You are writing a procedure here. 
+    
+    A ref topic about the properties of X would simply document such properties. For example, perhaps the essential properties of the H-1B petition.
+
+    Be sure to revise for this topical issue here and throughout the model.
+  -->
   <title>compiling h-1b steps</title>
   <shortdesc> the steps to put together a h-1b petition</shortdesc>
   <refbody>

@@ -13,6 +13,7 @@
       </step>
       <step>
         <cmd>detail included documents for client</cmd>
+        <!-- Such as? Do you have examples that could be provided with the <stepxmp> element? For these types of steps, I recommend providing common examples. -->
       </step>
       <step>
           <cmd>detail included documents for company</cmd>

@@ -2,8 +2,16 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_what_is_USCIS_cover_letter">
   <title>What is a USCIS Cover Letter?</title>
+  <!-- shortdesc? -->
   <conbody>
-    <p>A USCIS Cover Letter is a formal document that accompanies a petition to the US Citizenship and Immigration Services Office</p>
+    <!-- COMMENTS
+      - Note punctuation and spelling throughout thsi and the model.
+      - Note the paragraph element formatting change below in the first p element. This is better, so you can also collapse the content, when completed.
+      - Also, is most of this really just one paragraph, if you are not elaborating on the particular claim/statement? This seems to be a pattern among other concept topics, too, so be sure to consider this comment throughout your model.
+    -->
+    <p>
+      A USCIS Cover Letter is a formal document that accompanies a petition to the US Citizenship and Immigration Services Office.
+    </p>
     <p>This document helps the USCIS officer navigate the petitionby helping them look at the specific education documents/certifications of the client</p>
     <p>The cover letter also lets the USCIS officer to know where to expect copies of original documents like the clients passport or the offer letter for the job provided by the sponsoring company</p>
   </conbody>
