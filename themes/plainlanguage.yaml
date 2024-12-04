@@ -108,16 +108,17 @@ style:
     font-size: $fonts-sizing-h1
     letter-spacing: 0.5pt
     color: $colors-primary-main
+    border-after: solid 1pt $colors-accent1-main
     # Add numbering in toc, headers, footers, when applicable
     title-numbering: false
     break-before: page
   h2:
     font-family: $fonts-families-headings
     font-size: $fonts-sizing-h2
-    border-after: solid 1pt $colors-primary-s1
+    border-after: solid 1pt $colors-accent1-main
     color: $colors-primary-main
     # Add numbering in toc, headers, footers, when applicable
-    title-numbering: flase
+    title-numbering: false
   h3:
     font-family: $fonts-families-headings
     font-size: $fonts-sizing-h3
