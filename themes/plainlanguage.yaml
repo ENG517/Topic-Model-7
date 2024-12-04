@@ -52,10 +52,10 @@ colors:
 ########
 fonts:
   families:
-    copy: 'Merriweather Light, Merriweather Normal, Playfair Display Normal'
-    headings: 'Merriweather Bold, Merriweather Black'
-    display: 'Playfair Display Bold'
-    monospaced: 'Merriweather Normal'
+    copy: 'Merriweather Light, Ariel Unicode MS'
+    headings: 'Merriweather Bold, Merriweather Black, Times New Roman'
+    display: 'Playfair Display Bold, Times New Roman'
+    monospaced: 'Merriweather Normal, Ariel Unicode MS'
   sizing:
     title: 36pt
     h1: 28pt
