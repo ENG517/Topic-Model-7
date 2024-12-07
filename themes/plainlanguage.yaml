@@ -1,0 +1,232 @@
+##########################################################
+# PDF THEME
+ 
+# Main Docs: https://www.dita-ot.org/4.2/topics/pdf-themes
+# Styles: https://www.dita-ot.org/4.2/resources/theme/styles
+# Variables: https://www.dita-ot.org/dev/resources/theme/variables
+# Sample: https://www.dita-ot.org/dev/topics/sample-pdf-theme.html
+
+# Full XSL Specifications
+# (eXtensible Stylesheet Language)
+# https://www.w3.org/TR/xsl/
+
+##########################################################
+
+#########
+# COLORS
+#########
+colors:
+  primary: 
+    main: '#023e73' #Darkish Blue
+    s1: '#ebf5ff'
+    s2: '#c3e2fe'
+    s3: '#86c6fd'
+    s4: '#4eb1d9'
+    s5: '#0d688c'
+  secondary: 
+    main: '#bf3030' #Wine Red
+    s1: '#f7dede'
+    s2: '#dec7c7'
+    s3: '#ce3b3b'
+    s4: '#932525'
+    s5: '#521414'
+  accent1:
+    main: '#e9ba0e' #Saffron
+    s1: '#fbebb2'
+    s2: '#f8dc77'
+    s3: '#f6d251'
+    s4: '#c29a0a'
+    s5: '#886c07'
+  neutrals: # No need to change neutrals
+    s1: '#f2f2f2'
+    s2: '#e8e9e9'
+    s3: '#d1d3d4'
+    s4: '#babdbf'
+    s5: '#808488'
+    s6: '#666a6d'
+    s7: '#4d5052'
+    s8: '#212122'
+
+########
+# FONTS
+########
+fonts:
+  families:
+    copy: 'Cambria, Ariel Unicode MS'
+    headings: 'Georgia, Times New Roman'
+    display: 'Georgia, Times New Roman'
+    monospaced: 'Cambria, Times New Roman'
+  sizing:
+    title: 36pt
+    h1: 28pt
+    h2: 22pt
+    h3: 22pt
+    h4: 18pt
+    h5: 18pt
+    h6: 18pt
+    copy: 14pt
+    uicontrol: 14.5pt
+    small: 12pt
+
+###############
+# LINE SPACING
+###############
+spacing:
+  lines:
+    xxlarge: 36pt
+    xlarge: 29pt
+    large: 18pt
+    medium: 12pt
+    small: 6pt
+    xsmall: 2pt
+
+################
+# PAGE SETTINGS
+# Docs: https://www.dita-ot.org/4.2/resources/theme/page-settings
+################
+page:
+  size: Letter
+  mirror-margins: true
+
+##################
+# MAIN DOC STYLES
+##################
+style:
+  # New Defaults for Text in Body Elements
+  body:
+    font-family: $fonts-families-copy
+    font-size: $fonts-sizing-copy
+  # Cover Page Title
+  cover-title:
+    color: $colors-primary-main
+    font-family: $fonts-families-display
+    font-size: $fonts-sizing-title
+    text-transform: uppercase
+  # Heading Styles
+  h1:
+    font-family: $fonts-families-headings
+    font-size: $fonts-sizing-h1
+    letter-spacing: 0.5pt
+    color: $colors-primary-main
+    border-after: solid 1pt $colors-accent1-main
+    # Add numbering in toc, headers, footers, when applicable
+    title-numbering: false
+    break-before: page
+  h2:
+    font-family: $fonts-families-headings
+    font-size: $fonts-sizing-h2
+    border-after: solid 1pt $colors-accent1-main
+    color: $colors-primary-main
+    # Add numbering in toc, headers, footers, when applicable
+    title-numbering: false
+  h3:
+    font-family: $fonts-families-headings
+    font-size: $fonts-sizing-h3
+    color: $colors-primary-main
+  h4:
+    font-family: $fonts-families-headings
+    font-size: $fonts-sizing-h4
+    color: $colors-primary-main
+  h5:
+    font-family: $fonts-families-headings
+    font-size: $fonts-sizing-h5
+    color: $colors-primary-main
+  h6:
+    font-family: $fonts-families-headings
+    font-size: $fonts-sizing-h6
+    color: $colors-primary-main
+  li:
+    margin-bottom: $spacing-lines-medium
+    font-family: $fonts-families-copy
+    label:
+      color: $colors-secondary-s4
+  step:
+    keep-together.within-page: always
+  substeps:
+    margin-top: $spacing-lines-small
+    margin-bottom: $spacing-lines-large
+  link:
+    font-family: $fonts-families-copy
+    color: $colors-secondary-s5
+  shortdesc:
+    margin-top: $spacing-lines-xlarge
+    margin-bottom: $spacing-lines-xlarge
+  prereq:
+    margin-top: $spacing-lines-xlarge
+    margin-bottom: $spacing-lines-xlarge
+  note:
+    background-color: $colors-accent1-s1
+    padding-before: $spacing-lines-small
+    padding-after: $spacing-lines-small
+    padding-start: $spacing-lines-small
+    padding-end: $spacing-lines-small
+    margin-bottom: $spacing-lines-medium
+    keep-together.within-page: always
+    caution:
+      background-color: $colors-secondary-s2
+    warning:
+      background-color: $colors-secondary-s2
+  stepresult:
+    padding-before: 6pt
+    padding-after: 6pt
+    margin-bottom: 12pt
+    keep-together.within-page: always
+  option:
+    color: $colors-secondary-main
+    font-family: $fonts-families-monospaced
+  table:
+    caption:
+      color: $colors-secondary-main
+    font-family: $fonts-families-copy
+    font-size: $fonts-sizing-small
+    header:
+      background-color: $colors-secondary-s2
+  menucascade:
+    font-style: italic
+    font-size: $fonts-sizing-uicontrol
+  uicontrol:
+    font-family: $fonts-families-monospaced
+    background-color: $colors-secondary-s1
+    color: $colors-primary-main
+    font-size: $fonts-sizing-uicontrol
+
+
+###################
+# DOC HEADER SETUP
+###################
+header:
+  color: $colors-primary-main
+  display-align: before
+  end-indent: 10mm
+  font-family: $fonts-families-headings
+  font-size: $fonts-sizing-small
+  font-weight: light
+  padding-after: $spacing-lines-small
+  padding-before: $spacing-lines-medium
+  start-indent: 10mm
+  odd:
+    content: '{chapter}'
+    text-align: end
+  even:
+    content: '{title}'
+    text-align: start
+
+###################
+# DOC FOOTER SETUP
+###################
+footer:
+  color: $colors-primary-main
+  end-indent: 10mm
+  font-family: $fonts-families-headings
+  font-size: $fonts-sizing-small
+  padding-after: $spacing-lines-small
+  padding-before: $spacing-lines-medium
+  start-indent: 10mm
+  odd:
+    content: '{folio}'
+    font-weight: light
+    text-align: end
+  even:
+    content: '{folio}'
+    font-weight: light
+    text-align: start
