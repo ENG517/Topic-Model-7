@@ -52,10 +52,10 @@ colors:
 ########
 fonts:
   families:
-    copy: 'Merriweather Light, Ariel Unicode MS'
-    headings: 'Merriweather Bold, Merriweather Black, Times New Roman'
-    display: 'Playfair Display Bold, Times New Roman'
-    monospaced: 'Merriweather Normal, Ariel Unicode MS'
+    copy: 'Cambria, Ariel Unicode MS'
+    headings: 'Georgia, Times New Roman'
+    display: 'Georgia, Times New Roman'
+    monospaced: 'Cambria, Times New Roman'
   sizing:
     title: 36pt
     h1: 28pt
@@ -126,17 +126,20 @@ style:
   h4:
     font-family: $fonts-families-headings
     font-size: $fonts-sizing-h4
+    color: $colors-primary-main
   h5:
     font-family: $fonts-families-headings
     font-size: $fonts-sizing-h5
+    color: $colors-primary-main
   h6:
     font-family: $fonts-families-headings
     font-size: $fonts-sizing-h6
+    color: $colors-primary-main
   li:
     margin-bottom: $spacing-lines-medium
     font-family: $fonts-families-copy
     label:
-      color: $colors-primary-main
+      color: $colors-secondary-s4
   step:
     keep-together.within-page: always
   substeps:
@@ -160,9 +163,9 @@ style:
     margin-bottom: $spacing-lines-medium
     keep-together.within-page: always
     caution:
-      background-color: $colors-secondary-s1
+      background-color: $colors-secondary-s2
     warning:
-      background-color: $colors-secondary-s1
+      background-color: $colors-secondary-s2
   stepresult:
     padding-before: 6pt
     padding-after: 6pt
@@ -177,7 +180,7 @@ style:
     font-family: $fonts-families-copy
     font-size: $fonts-sizing-small
     header:
-      background-color: $colors-primary-s1
+      background-color: $colors-secondary-s2
   menucascade:
     font-style: italic
     font-size: $fonts-sizing-uicontrol
