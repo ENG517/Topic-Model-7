@@ -17,26 +17,26 @@
 #########
 colors:
   primary: 
-    main: '#005687' #Dark Blue
-    s1: '#e1f5fe'
-    s2: '#b3e5fc'
-    s3: '#4fc3f7'
-    s4: '#0288d1'
-    s5: '#186cb8'
+    main: '#023e73' #Darkish Blue
+    s1: '#ebf5ff'
+    s2: '#c3e2fe'
+    s3: '#86c6fd'
+    s4: '#4eb1d9'
+    s5: '#0d688c'
   secondary: 
-    main: '#f44336' #Dark Red
-    s1: '#ffdde0'
-    s2: '#ffcdd2'
-    s3: '#ef9a9a'
-    s4: '#d32f2f'
-    s5: '#b71c1c'
+    main: '#bf3030' #Wine Red
+    s1: '#f7dede'
+    s2: '#dec7c7'
+    s3: '#ce3b3b'
+    s4: '#932525'
+    s5: '#521414'
   accent1:
-    main: '#f1b211' #Golden rod yellow
-    s1: '#f9f1dc'
-    s2: '#f4dea7'
-    s3: '#f2cb69'
-    s4: '#f0bb34'
-    s5: '#e4a80b'
+    main: '#e9ba0e' #Saffron
+    s1: '#fbebb2'
+    s2: '#f8dc77'
+    s3: '#f6d251'
+    s4: '#c29a0a'
+    s5: '#886c07'
   neutrals: # No need to change neutrals
     s1: '#f2f2f2'
     s2: '#e8e9e9'
@@ -52,10 +52,10 @@ colors:
 ########
 fonts:
   families:
-    copy: 'Merriweather Light, Merriweather Normal, Playfair Display Normal'
-    headings: 'Merriweather Bold, Merriweather Black'
-    display: 'Playfair Display Bold'
-    monospaced: 'Merriweather Normal'
+    copy: 'Cambria, Ariel Unicode MS'
+    headings: 'Georgia, Times New Roman'
+    display: 'Georgia, Times New Roman'
+    monospaced: 'Cambria, Times New Roman'
   sizing:
     title: 36pt
     h1: 28pt
@@ -108,16 +108,17 @@ style:
     font-size: $fonts-sizing-h1
     letter-spacing: 0.5pt
     color: $colors-primary-main
+    border-after: solid 1pt $colors-accent1-main
     # Add numbering in toc, headers, footers, when applicable
-    title-numbering: true
+    title-numbering: false
     break-before: page
   h2:
     font-family: $fonts-families-headings
     font-size: $fonts-sizing-h2
-    border-after: solid 1pt $colors-primary-s1
+    border-after: solid 1pt $colors-accent1-main
     color: $colors-primary-main
     # Add numbering in toc, headers, footers, when applicable
-    title-numbering: true
+    title-numbering: false
   h3:
     font-family: $fonts-families-headings
     font-size: $fonts-sizing-h3
@@ -125,17 +126,20 @@ style:
   h4:
     font-family: $fonts-families-headings
     font-size: $fonts-sizing-h4
+    color: $colors-primary-main
   h5:
     font-family: $fonts-families-headings
     font-size: $fonts-sizing-h5
+    color: $colors-primary-main
   h6:
     font-family: $fonts-families-headings
     font-size: $fonts-sizing-h6
+    color: $colors-primary-main
   li:
     margin-bottom: $spacing-lines-medium
     font-family: $fonts-families-copy
     label:
-      color: $colors-primary-main
+      color: $colors-secondary-s4
   step:
     keep-together.within-page: always
   substeps:
@@ -159,9 +163,9 @@ style:
     margin-bottom: $spacing-lines-medium
     keep-together.within-page: always
     caution:
-      background-color: $colors-secondary-s1
+      background-color: $colors-secondary-s2
     warning:
-      background-color: $colors-secondary-s1
+      background-color: $colors-secondary-s2
   stepresult:
     padding-before: 6pt
     padding-after: 6pt
@@ -176,7 +180,7 @@ style:
     font-family: $fonts-families-copy
     font-size: $fonts-sizing-small
     header:
-      background-color: $colors-primary-s1
+      background-color: $colors-secondary-s2
   menucascade:
     font-style: italic
     font-size: $fonts-sizing-uicontrol
